@@ -5,6 +5,7 @@ import product2Img from '../assets/product2.webp';
 import product3Img from '../assets/product3.webp';
 import product4Img from '../assets/product4.webp';
 
+
 const products = [
   {
     id: 1,
